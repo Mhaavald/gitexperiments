@@ -7,5 +7,8 @@
     Write-Host "[testFunction] Other user adding this line."
 
 
+       Write-Host "[testFunction] Original user adding a line."
+
+
     Write-Host "[testFunction] End."
 }
